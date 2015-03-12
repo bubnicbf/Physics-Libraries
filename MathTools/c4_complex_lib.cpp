@@ -4,7 +4,7 @@
 
 using namespace std;
 
-# include "c4_complex_lib.hpp"
+# include "c4_complex_lib.h"
 
 /********************************************************
 * c = c / c -- c4_complex division			*
